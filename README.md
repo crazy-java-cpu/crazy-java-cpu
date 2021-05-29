@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crazy-java-cpu
-- 👀 I’m interested in ...java programme
-- 🌱 I’m currently learning ...l can learn more knowledge in this place about java
-- 💞️ I’m looking to collaborate on ...l dint know
+- 👀 I’m interested in ...how to become a senior java engineer
+- 🌱 I’m currently learning ...java
+- 💞️ I’m looking to collaborate on ...l can learn more knowledge in this place about java
 - 📫 How to reach me ...just this place
 
 <!---
